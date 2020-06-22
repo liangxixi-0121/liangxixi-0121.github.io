@@ -751,15 +751,12 @@
 }
 /*<!--免费送货 90天退货-->*/
 #Delivery{
-	width: 1530px;
+	width: 1688px;
 	height:254px;
-  position: relative;
-  margin: 0 auto;
-  text-align: center;
 }
 #Delivery .content-line{ /*1170*/
-	width:1170px;
-/*	height: 300px;*/
+  margin: 0 auto;
+  width: 1130px;
 	background-color: sandybrown; 
 	margin: 0 auto;
 }
@@ -798,8 +795,6 @@
 }
 /*电影之夜在我们身边*/
 #movies{   /*背景外*/
-	position:relative;
-	width: 1530px;
 	height:378px;
 	background-color:#000;
 	background:url(../img/footer1.jpg) no-repeat;
@@ -807,7 +802,7 @@
   background-size: cover;   /*背景图片展开*/     
 }
 #movies .content{
-	width: 1530px;
+	width: 1680px;
 	margin-top: 70px;
 	position: absolute;
 
@@ -852,7 +847,6 @@
 
 /*保持联系*/
 #footer{
-	width:1530px;
 	height: 614px;
 	background: url(../img/conj-3.png) no-repeat;
 	background-color: #353745
